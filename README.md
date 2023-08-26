@@ -1,16 +1,16 @@
 # fastapi-demo
 
 ## Install fastapi
-```bash
+```sh
 pip install fastapi
 ```
 
 ## Install uvicorn
-```bash
+```sh
 pip install uvicorn
 ```
 
 ## Run app
-```bash
+```sh
 uvicorn src.main:app --reload
 ```
